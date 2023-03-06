@@ -23,14 +23,14 @@
 :: | OS System - Windows
 :: | Created - March, 6th 2023
 :: | How to use - USB or executable
-:: | File size - Unknown
+:: | File size - 14 kb
 :: | Encrypted - NO
 :: | Encryption - NO
 :: | Warnings - NO
 :: | Where to get - https://Github.com/CPScript/Worst
 :: | Harmfull - YES
-:: | Payloads - Probibly
-:: | Finished on - Unknown
+:: | Payloads - 2
+:: | Finished on - March, 8th 2023
 :: 
 :: 
 :: 
